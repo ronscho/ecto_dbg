@@ -46,7 +46,7 @@ defmodule EctoDbg.MixProject do
     [
       # Required dependencies
       {:ecto_sql, "~> 3.7"},
-      {:ecto_dev_logger, "~> 0.8.0"},
+      {:ecto_dev_logger, "~> 0.9.0"},
       {:erlexec, "~> 2.0"},
 
       # Development dependencies
